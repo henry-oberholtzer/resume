@@ -16,6 +16,7 @@
 %
 % Created by Trey Hunner and modified by www.LaTeXTemplates.com
 %
+% Further modifications by Henry Oberholtzer
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %----------------------------------------------------------------------------------------

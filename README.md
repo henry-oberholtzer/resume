@@ -1,8 +1,9 @@
 # Henry Oberholtzer - Resume, winter 2024
 
-(Available to view here...)[https://github.com/henry-oberholtzer/resume/blob/main/resume.pdf]
+## (https://github.com/henry-oberholtzer/resume/blob/main/resume.pdf)[Available to view here...]
 
-# Attribution
+## Attribution
 
-Styled using LaTeX
-Modified from a template provided by (LaTeXTemplates.com)[http://www.LaTeXTemplates.com]
+Styled & built using LaTeX.
+Based on a template provided by (http://www.LaTeXTemplates.com
+)[LaTeXTemplates.com.]

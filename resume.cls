@@ -48,6 +48,9 @@
 %	MARGINS
 %----------------------------------------------------------------------------------------
 
+% \usepackage{tgbonum}
+% \usepackage[T1]{fontenc}
+
 \usepackage{geometry} % Required for adjusting page dimensions and margins
 
 \usepackage[hidelinks]{hyperref}

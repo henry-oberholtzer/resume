@@ -1,7 +1,9 @@
-# Resume
+# Henry Oberholtzer - Resume, winter 2024
 
-My current (Late 2023) resume.
+## [Available to view here...](https://github.com/henry-oberholtzer/resume/blob/main/resume.pdf)
 
-# Attribution
+## Attribution
 
-Styled using LaTeX based off a template from (LaTeXTemplates.com)[http://www.LaTeXTemplates.com]
+Styled & built using LaTeX.
+Based on a template provided by [LaTeXTemplates.com.](http://www.LaTeXTemplates.com
+)
